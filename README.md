@@ -67,7 +67,7 @@ You can modify the paths to input files in the main block:
 path1 = "../../sample_inputs/easy_sample_03_1.txt"
 path2 = "../../sample_inputs/easy_sample_03_2.txt"
 ```
-This samples can only be added and subtracted, but not multiplyed as the number of rows and columns do not allow multiplication. If you want to test multiplication, change the path to other samples in sample directory, like easy_sample_01_2.txt and easy_sample_01_03.txt.
+This samples can only be added and subtracted, but not multiplyed as the number of rows and columns do not allow multiplication. If you want to test multiplication, change the path to other samples in sample directory, like **easy_sample_01_2.txt** and **easy_sample_01_03.txt**.
 
 ## ✅ Requirements Fulfilled
 
@@ -75,3 +75,5 @@ This samples can only be added and subtracted, but not multiplyed as the number 
 * Clear separation of code and input files
 * Fully documented source code with internal comments
 * Follows matrix rules and applies exception handling accordingly
+
+  **Tedla Tesfaye Godebo**
